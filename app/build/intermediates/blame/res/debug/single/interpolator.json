@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Work/PurpleFoody/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/hongthai/.android/build-cache/e732c03a63cfa4317784640f8963b9771d76a69b/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Volumes/Work/PurpleFoody/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/hongthai/.android/build-cache/e732c03a63cfa4317784640f8963b9771d76a69b/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

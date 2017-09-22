@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Work/PurpleFoody/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Work/PurpleFoody/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Work/PurpleFoody/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

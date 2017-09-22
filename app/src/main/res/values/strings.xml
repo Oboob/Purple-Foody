@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PurpleFoody</string>
+    <string name="option_1">Find food store</string>
+    <string name="option_2">Search </string>
+    <string name="option_3">Settings</string>
+    <string name="option_4">FeedBack</string>
+    <string name="option_5">About</string>
+    <string name="exit">Exit</string>
+    <string name="version">Version 1.0.0</string>
+
+</resources>

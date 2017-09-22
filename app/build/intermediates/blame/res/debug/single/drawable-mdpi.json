@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Work/PurpleFoody/app/build/intermediates/res/merged/debug/drawable-mdpi/commissary_outdoor_terrace.png",
+        "source": "/Volumes/Work/PurpleFoody/app/src/main/res/drawable-mdpi/commissary_outdoor_terrace.png"
+    },
+    {
+        "merged": "/Volumes/Work/PurpleFoody/app/build/intermediates/res/merged/debug/drawable-mdpi/food.png",
+        "source": "/Volumes/Work/PurpleFoody/app/src/main/res/drawable-mdpi/food.png"
+    },
+    {
+        "merged": "/Volumes/Work/PurpleFoody/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_name.png",
+        "source": "/Volumes/Work/PurpleFoody/app/src/main/res/drawable-mdpi/ic_action_name.png"
+    }
+]

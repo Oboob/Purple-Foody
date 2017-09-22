@@ -1,0 +1,449 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+application
+ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hongthai/.android/build-cache/88b88e6554622c532572e442ef172631d233513e/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/hongthai/.android/build-cache/59a246b2bf064f6598f76990e886d8d55f132c8e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/hongthai/.android/build-cache/e5c401e4f5bcfd443ff585e9ab2b3554be4066ae/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/hongthai/.android/build-cache/3e5e675ead1cc82223bba0bc11fdea36555003cb/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/hongthai/.android/build-cache/a7f45f06a47326001a32334af161b92e75aa717a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/hongthai/.android/build-cache/e732c03a63cfa4317784640f8963b9771d76a69b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hongthai/.android/build-cache/9d3d116e96903336fc1ed31d0a29d19f2c454087/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hongthai/.android/build-cache/e6163da2ae98dcff588ef0b3ae38e0074b75a8b9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/hongthai/.android/build-cache/22d0da397657b6bca71859e3a81ccef73931f8f8/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/hongthai/.android/build-cache/e5f4a08154efa6f6b69655dab93d075ecbc0caaf/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/hongthai/.android/build-cache/90867590f9899883a32228ec177a764227fb97d8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/hongthai/.android/build-cache/06bacfad9d2b832b16b81f372fb2dd32df403953/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/hongthai/.android/build-cache/33fcf24da24bf8577ac8815a6d6011cdb81cbc55/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/hongthai/.android/build-cache/cc0476675e97329eed3a87a2c68f543e62bfad83/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/hongthai/.android/build-cache/0cbb187b91613fe13263837fcd52eb480e23960f/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/hongthai/.android/build-cache/f19bfc9bed6127c0be53aeaced0fb44c3f58757a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/hongthai/.android/build-cache/20a616dbc78f8ce35d7dbf323bae94e9c844a37c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/hongthai/.android/build-cache/5819607eb306f74e895ce26e334732388c8ff1d6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/hongthai/.android/build-cache/cca070d84408465ff3392e9ddb648c0cbc35ef07/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/hongthai/.android/build-cache/618c3e8e0361d919abdfdbcfc0f4d4f539d7e6f6/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/hongthai/.android/build-cache/4532264810d21a5fd80cf6fe6bfa372eaf231cd3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/hongthai/.android/build-cache/c20c3dbf98ddeac8ea269aef181bc637ca33bf4d/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/hongthai/.android/build-cache/9308a703346766a49f5e82fe2f87f40e3e983c96/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/hongthai/.android/build-cache/631980e4902cf048b3acbf6cf5e015ca2ebf3076/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/hongthai/.android/build-cache/c24ee49675628bb239227a108a0eaad0d410ad5c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/hongthai/.android/build-cache/3ac9d679b9dc23641c3dc4d3d6c57533db18dbb5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/hongthai/.android/build-cache/d4bc88f88cb224a799bc07c636e945b81fd74513/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/hongthai/.android/build-cache/8f8caf54df066afc7668a8b191baa9688980d312/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/493137f59d93a014f79d6a057d6e014f50780c92/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/hongthai/.android/build-cache/34c3f4ad0e12215381b4e616c4bc64e264ad81fb/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/hongthai/.android/build-cache/491b1d9924095981fb505f7bf9a42b61f8efbdae/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/931341c06204c3b4914ad6405ff7e5ad31490057/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/hongthai/.android/build-cache/bf5e70bd65656963e27913ed01311ec4afdfe87a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/hongthai/.android/build-cache/31ba10efe485b8bf16488209b3dd23c9414cbe34/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/hongthai/.android/build-cache/c45b240444d72bf24217f82148d7b33100911a6c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/hongthai/.android/build-cache/64244cb7714e30faa78a4ea661413dc01128c21c/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/hongthai/.android/build-cache/e2971ac0233b7f1710a7c76cc67dbdcefad70e99/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/hongthai/.android/build-cache/e4b9aeaa46501a41262f45accab191fc05ead3e2/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/hongthai/.android/build-cache/c5b8afb608fbb489c66a3016104acccfdc06aa62/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/hongthai/.android/build-cache/413640f20b4f9d7066b43d4614e366cf0f1c0953/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hongthai/.android/build-cache/7ca4a43263ce9a2e8d7e49e3804d8d927c071e87/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hongthai/.android/build-cache/ecabaa025884229f599d46e5c4c4ed4d208d5f8a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hongthai/.android/build-cache/d861f5f6a4b51dba4cac34536b91763d0c5d74e9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hongthai/.android/build-cache/7e005c550fa86ddd81f1828d7a29c7ae6ef84fe7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hongthai/.android/build-cache/bf2e1e3739d00ea0b9465e8a93da0241756f4349/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hongthai/.android/build-cache/ff9020d6495758175f7a21fe21145af801005523/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:11:9-40
+activity#settings.androidhive.info.purplefoody.MainActivity
+ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hongthai/.android/build-cache/88b88e6554622c532572e442ef172631d233513e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/hongthai/.android/build-cache/7af6cc09f6faa6ea0bf9bb812529199ea8bc0e37/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/hongthai/.android/build-cache/59a246b2bf064f6598f76990e886d8d55f132c8e/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/hongthai/.android/build-cache/540e8bc3ebe9f8c039defe3988fc95717963750b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/hongthai/.android/build-cache/e5c401e4f5bcfd443ff585e9ab2b3554be4066ae/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/hongthai/.android/build-cache/ec067ea94190e086e3544743f8c92f7d6421ad37/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/hongthai/.android/build-cache/a4b6925791e0d111c0900173e2fcc555d5167c36/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/hongthai/.android/build-cache/3e5e675ead1cc82223bba0bc11fdea36555003cb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/hongthai/.android/build-cache/a7f45f06a47326001a32334af161b92e75aa717a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/hongthai/.android/build-cache/e732c03a63cfa4317784640f8963b9771d76a69b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hongthai/.android/build-cache/9d3d116e96903336fc1ed31d0a29d19f2c454087/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hongthai/.android/build-cache/e6163da2ae98dcff588ef0b3ae38e0074b75a8b9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/hongthai/.android/build-cache/22d0da397657b6bca71859e3a81ccef73931f8f8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/hongthai/.android/build-cache/e5f4a08154efa6f6b69655dab93d075ecbc0caaf/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/hongthai/.android/build-cache/90867590f9899883a32228ec177a764227fb97d8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/hongthai/.android/build-cache/06bacfad9d2b832b16b81f372fb2dd32df403953/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/hongthai/.android/build-cache/33fcf24da24bf8577ac8815a6d6011cdb81cbc55/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/hongthai/.android/build-cache/cc0476675e97329eed3a87a2c68f543e62bfad83/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/hongthai/.android/build-cache/760d1907ee690d1493238228b4005130f04db0cb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/hongthai/.android/build-cache/0a5951013f85e1886227e3ca7ff745e2bcfbe848/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/hongthai/.android/build-cache/0cbb187b91613fe13263837fcd52eb480e23960f/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/hongthai/.android/build-cache/8177644e992ede4f158e68b7357e3788bab17cf6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/hongthai/.android/build-cache/ef949e27b345c92f4cf4aa439037480e60e4e66a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/hongthai/.android/build-cache/f19bfc9bed6127c0be53aeaced0fb44c3f58757a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/hongthai/.android/build-cache/20a616dbc78f8ce35d7dbf323bae94e9c844a37c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/hongthai/.android/build-cache/5819607eb306f74e895ce26e334732388c8ff1d6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/hongthai/.android/build-cache/cca070d84408465ff3392e9ddb648c0cbc35ef07/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/hongthai/.android/build-cache/618c3e8e0361d919abdfdbcfc0f4d4f539d7e6f6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/hongthai/.android/build-cache/4532264810d21a5fd80cf6fe6bfa372eaf231cd3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/hongthai/.android/build-cache/c20c3dbf98ddeac8ea269aef181bc637ca33bf4d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/hongthai/.android/build-cache/e5418fc7b09b92a91ecdb97bb022282c83fbeedc/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/hongthai/.android/build-cache/9308a703346766a49f5e82fe2f87f40e3e983c96/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/hongthai/.android/build-cache/631980e4902cf048b3acbf6cf5e015ca2ebf3076/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/hongthai/.android/build-cache/c24ee49675628bb239227a108a0eaad0d410ad5c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/hongthai/.android/build-cache/3ac9d679b9dc23641c3dc4d3d6c57533db18dbb5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/hongthai/.android/build-cache/d4bc88f88cb224a799bc07c636e945b81fd74513/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/hongthai/.android/build-cache/8f8caf54df066afc7668a8b191baa9688980d312/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/hongthai/.android/build-cache/7c5f62aff60cca1a2ce6c9edf824d430224c88fa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/493137f59d93a014f79d6a057d6e014f50780c92/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/hongthai/.android/build-cache/34c3f4ad0e12215381b4e616c4bc64e264ad81fb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/hongthai/.android/build-cache/491b1d9924095981fb505f7bf9a42b61f8efbdae/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/931341c06204c3b4914ad6405ff7e5ad31490057/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/hongthai/.android/build-cache/bf5e70bd65656963e27913ed01311ec4afdfe87a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/hongthai/.android/build-cache/31ba10efe485b8bf16488209b3dd23c9414cbe34/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/hongthai/.android/build-cache/a1f071c688de2bd8452c5bf624f58fd042e0e704/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/hongthai/.android/build-cache/c45b240444d72bf24217f82148d7b33100911a6c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/hongthai/.android/build-cache/64244cb7714e30faa78a4ea661413dc01128c21c/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/hongthai/.android/build-cache/e2971ac0233b7f1710a7c76cc67dbdcefad70e99/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/hongthai/.android/build-cache/e4b9aeaa46501a41262f45accab191fc05ead3e2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/hongthai/.android/build-cache/c5b8afb608fbb489c66a3016104acccfdc06aa62/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/hongthai/.android/build-cache/413640f20b4f9d7066b43d4614e366cf0f1c0953/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hongthai/.android/build-cache/7ca4a43263ce9a2e8d7e49e3804d8d927c071e87/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hongthai/.android/build-cache/ecabaa025884229f599d46e5c4c4ed4d208d5f8a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hongthai/.android/build-cache/d861f5f6a4b51dba4cac34536b91763d0c5d74e9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hongthai/.android/build-cache/7e005c550fa86ddd81f1828d7a29c7ae6ef84fe7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hongthai/.android/build-cache/bf2e1e3739d00ea0b9465e8a93da0241756f4349/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hongthai/.android/build-cache/ff9020d6495758175f7a21fe21145af801005523/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/PurpleFoody/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/hongthai/.android/build-cache/e5c401e4f5bcfd443ff585e9ab2b3554be4066ae/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/hongthai/.android/build-cache/33fcf24da24bf8577ac8815a6d6011cdb81cbc55/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/hongthai/.android/build-cache/618c3e8e0361d919abdfdbcfc0f4d4f539d7e6f6/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/hongthai/.android/build-cache/c20c3dbf98ddeac8ea269aef181bc637ca33bf4d/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/493137f59d93a014f79d6a057d6e014f50780c92/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/931341c06204c3b4914ad6405ff7e5ad31490057/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/hongthai/.android/build-cache/64244cb7714e30faa78a4ea661413dc01128c21c/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/hongthai/.android/build-cache/e5c401e4f5bcfd443ff585e9ab2b3554be4066ae/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/hongthai/.android/build-cache/631980e4902cf048b3acbf6cf5e015ca2ebf3076/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/493137f59d93a014f79d6a057d6e014f50780c92/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/931341c06204c3b4914ad6405ff7e5ad31490057/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/hongthai/.android/build-cache/64244cb7714e30faa78a4ea661413dc01128c21c/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/hongthai/.android/build-cache/f8675231592cb346b02f6855eb9e65f8d2597535/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/hongthai/.android/build-cache/e5c401e4f5bcfd443ff585e9ab2b3554be4066ae/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/493137f59d93a014f79d6a057d6e014f50780c92/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/931341c06204c3b4914ad6405ff7e5ad31490057/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/hongthai/.android/build-cache/e5c401e4f5bcfd443ff585e9ab2b3554be4066ae/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/hongthai/.android/build-cache/822a5c04fef61dae616613712896ddfa47d32d3c/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/hongthai/.android/build-cache/9fb12101276be76930133c0ea1eadbc742c0ad0c/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/hongthai/.android/build-cache/3e5e675ead1cc82223bba0bc11fdea36555003cb/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/hongthai/.android/build-cache/3e5e675ead1cc82223bba0bc11fdea36555003cb/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/hongthai/.android/build-cache/3e5e675ead1cc82223bba0bc11fdea36555003cb/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/hongthai/.android/build-cache/3e5e675ead1cc82223bba0bc11fdea36555003cb/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/hongthai/.android/build-cache/3e5e675ead1cc82223bba0bc11fdea36555003cb/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/hongthai/.android/build-cache/3e5e675ead1cc82223bba0bc11fdea36555003cb/output/AndroidManifest.xml:7:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hongthai/.android/build-cache/9d3d116e96903336fc1ed31d0a29d19f2c454087/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hongthai/.android/build-cache/e6163da2ae98dcff588ef0b3ae38e0074b75a8b9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hongthai/.android/build-cache/7ca4a43263ce9a2e8d7e49e3804d8d927c071e87/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hongthai/.android/build-cache/ecabaa025884229f599d46e5c4c4ed4d208d5f8a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hongthai/.android/build-cache/d861f5f6a4b51dba4cac34536b91763d0c5d74e9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hongthai/.android/build-cache/7e005c550fa86ddd81f1828d7a29c7ae6ef84fe7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hongthai/.android/build-cache/bf2e1e3739d00ea0b9465e8a93da0241756f4349/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hongthai/.android/build-cache/ff9020d6495758175f7a21fe21145af801005523/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/hongthai/.android/build-cache/7213ed7b0e67d759e073525ef5dcdf030047eaca/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/hongthai/.android/build-cache/618c3e8e0361d919abdfdbcfc0f4d4f539d7e6f6/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/hongthai/.android/build-cache/c20c3dbf98ddeac8ea269aef181bc637ca33bf4d/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/hongthai/.android/build-cache/618c3e8e0361d919abdfdbcfc0f4d4f539d7e6f6/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/hongthai/.android/build-cache/39c4bf34b6b8117b51c5f6d1748cc366321806c0/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/493137f59d93a014f79d6a057d6e014f50780c92/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/hongthai/.android/build-cache/493137f59d93a014f79d6a057d6e014f50780c92/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/hongthai/.android/build-cache/884490b2e59f168001ad3442eb7947cb14cc055c/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/hongthai/.android/build-cache/0faed27cbd869cb583bafc8136acfb050b5baf84/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/hongthai/.android/build-cache/34c3f4ad0e12215381b4e616c4bc64e264ad81fb/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/hongthai/.android/build-cache/34c3f4ad0e12215381b4e616c4bc64e264ad81fb/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/hongthai/.android/build-cache/34c3f4ad0e12215381b4e616c4bc64e264ad81fb/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/hongthai/.android/build-cache/34c3f4ad0e12215381b4e616c4bc64e264ad81fb/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/hongthai/.android/build-cache/34c3f4ad0e12215381b4e616c4bc64e264ad81fb/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/hongthai/.android/build-cache/64244cb7714e30faa78a4ea661413dc01128c21c/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/hongthai/.android/build-cache/64244cb7714e30faa78a4ea661413dc01128c21c/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/hongthai/.android/build-cache/64244cb7714e30faa78a4ea661413dc01128c21c/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/hongthai/.android/build-cache/e4b9aeaa46501a41262f45accab191fc05ead3e2/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/hongthai/.android/build-cache/e4b9aeaa46501a41262f45accab191fc05ead3e2/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/hongthai/.android/build-cache/e4b9aeaa46501a41262f45accab191fc05ead3e2/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/hongthai/.android/build-cache/e4b9aeaa46501a41262f45accab191fc05ead3e2/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/hongthai/.android/build-cache/413640f20b4f9d7066b43d4614e366cf0f1c0953/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/hongthai/.android/build-cache/413640f20b4f9d7066b43d4614e366cf0f1c0953/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/hongthai/.android/build-cache/413640f20b4f9d7066b43d4614e366cf0f1c0953/output/AndroidManifest.xml:20:20-65

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Work/PurpleFoody/assets/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Work/PurpleFoody/assets/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Work/PurpleFoody/assets/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Work/PurpleFoody/assets/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hongthai/.android/build-cache/f2e3556b112271b274d31689dee0303bda4378b5/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
